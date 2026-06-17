@@ -125,8 +125,6 @@ Through this project, I learned:
 
 ---
 
-## 👩‍💻 Author
 
-**Deepthi Anusha**
 
 GitHub: https://github.com/deepthiii19
